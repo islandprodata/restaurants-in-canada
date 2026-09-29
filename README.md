@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **33,523 restaurants companies ac
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **33,523 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($8 total) -> **[PASTE GUMROAD LINK HERE]** |
+| **Full dataset** | **33,523 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($8 total) -> **[GUMROAD-PENDING-QUOTA]** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 33,523-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of restaurants canada companies. Th
 - **33,523 canada restaurants companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $8 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[PASTE GUMROAD LINK HERE]**
+- Buy here -> **[GUMROAD-PENDING-QUOTA]**
 
 ## Use cases
 
